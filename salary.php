@@ -36,6 +36,7 @@ foreach ($marks as $key => $value) {
 	echo "<br>";
 	echo "nafeesa";
 	echo "nafeesanikkat";
+	echo "aamira";
 
 }
 	
