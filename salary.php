@@ -34,6 +34,7 @@ $marks=["Kartik" =>[100,90],"Janani" =>[70,99],"Naga" =>[80,90]];
 foreach ($marks as $key => $value) {
 	echo $key ."=". max($value);
 	echo "<br>";
+	echo "nafeesa";
 }
 	
 ?>
