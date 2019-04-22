@@ -35,6 +35,8 @@ foreach ($marks as $key => $value) {
 	echo $key ."=". max($value);
 	echo "<br>";
 	echo "nafeesa";
+	echo "nafeesanikkat";
+
 }
 	
 ?>
